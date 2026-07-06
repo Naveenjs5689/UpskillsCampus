@@ -37,23 +37,15 @@ upskillCampus/
 │
 ├── code/
 │   ├── dataset.csv
-│   ├── data_preprocessing.py
 │   ├── train_model.py
 │   ├── predict.py
 │   ├── main.py
-│   ├── model.pkl
 │   └── requirements.txt
 │
 ├── report/
 │   └── Final_Report.pdf
 │
-├── screenshots/
-│   ├── accuracy.png
-│   ├── confusion_matrix.png
-│   └── prediction_result.png
-│
-├── README.md
-└── LICENSE
+└── README.md
 ```
 
 ---
