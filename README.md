@@ -200,11 +200,7 @@ Through this project, the following skills are developed:
 
 ## 👨‍💻 Developed By
 
-**Student Name:** *Your Name*
-
-**College:** *Your College Name*
-
-**Department:** *Your Department*
+**Student Name:** *  BALAJISANKARAVEL A*
 
 **Internship:** Winter Internship 2026
 
